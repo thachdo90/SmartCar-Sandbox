@@ -1,0 +1,23 @@
+{
+  "name": "smartcar-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thachdo90/SmartCar-Sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thachdo90/SmartCar-Sandbox/issues"
+  },
+  "homepage": "https://github.com/thachdo90/SmartCar-Sandbox#readme",
+  "dependencies": {
+    "@smartcar/auth": "^2.9.0",
+    "smartcar": "^9.2.0"
+  }
+}
